@@ -5,7 +5,7 @@
 
 ## Archivos revisados
 
-- Proyecto_Apophis_JuanEstebanOsorioCorrea.ipynb (entregado)
+- Proyecto_Apophis_JuanEstebanOsorioCorrea.ipynb (versión final entregada)
 
 ## Historial de commits
 
@@ -27,9 +27,10 @@
 - Nota de ritmo de commits (promedio): 3.75 / 5.0
 
 Interpretación breve: Ritmo aceptable con evidencia de trabajo distribuido.
+
 ## Retroalimentación
 
-- Archivo revisado: Proyecto_Apophis_JuanEstebanOsorioCorrea.ipynb
+- Archivo revisado: Proyecto_Apophis_JuanEstebanOsorioCorrea.ipynb (versión final entregada)
 
 ### Aspectos positivos
 
@@ -39,10 +40,30 @@ Interpretación breve: Ritmo aceptable con evidencia de trabajo distribuido.
 
 ### Aspectos por mejorar
 
-- Falta fortalecer la parte de análisis y reflexión; no basta con mostrar resultados sin interpretarlos.
-- Se observa código extenso en varios puntos; conviene reducir repetición y encapsular rutinas.
+- Hacer una introducción, imaginarse que estas escribiendo un documento para que otras personas lo lean y sepan qué estás simulando. [Mejorado]
+- No se justifica por qué se usaron tantos cuerpos. [Mejorado]
+- No se provee las fuentes de los datos de las masas. [Mejorado]
+- Se está integrando desde el 1 de abril de 2029 para que la integración coincida pero el problema no es que coincida, es analizar por qué no coincide desde otras fechas. [Parcialmente mejorado]
+- Falta fortalecer la parte de análisis y reflexión; no basta con mostrar resultados sin interpretarlos. [Mejorado]
+- Se observa código extenso en varios puntos; conviene reducir repetición y encapsular rutinas. [Parcialmente mejorado]
+- Hay muchos experimentos que se pueden realizar usando la teoría del problema de los dos cuerpos y del CRTBP que no se hicieron: cálculo de la trayectoria asumiendo elementos orbitales fijos (poblema de los dos cuerpos), trayectoria en el sistema rotante del problema del CRTBP, integración de la trayectoria del asteroide en el CRTBP, entre otro. [Parcialmente mejorado]
+- La representación gráfica de la trayectoria es más pobre. [No mejorado]
+- Se recomienda cerrar con una sección unica de conclusiones (3-5 puntos) que sintetice hallazgos físicos y computacionales y responda directamente al objetivo del proyecto. [Parcialmente mejorado]
+- Intenta separar las celdas de cálculo de las celdas de graficación. [Parcialmente mejorado]
+- La narrativa del notebook puede mejorar en estructura: no todas las celdas de código están antecedidas por una celda de texto explicativa. [Mejorado]
 
 ### Valoración global
 
-- Trabajo técnicamente sólido en términos generales, con oportunidades claras de mejora en presentación y calidad de reporte.
+- Al trabajo le falta mucho, es inaceptable como esta.
+- Debes pensar en otros experimentos numéricos.
 - Estado de recepción: se recibe como fue entregado, con recomendaciones de mejora.
+- El trabajo final sigue siendo insatisfactorio por la falta de experimentos numéricos con la teoría de los 2 cuerpos y con el CRTBP.
+
+## Valoración final
+
+- Mejoras implementadas: 3.41 (70%)
+- Aplicación al repositorio: 3.75 (10%)
+- Aspectos positivos: 3.00 (10%)
+- Valoración global: 3.00 (10%)
+
+**Nota final (redondeada)**: 0.7×3.41 + 0.1×3.75 + 0.1×3.00 + 0.1×3.00 = (redondeado) 3.4
